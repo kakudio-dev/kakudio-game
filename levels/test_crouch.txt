@@ -1,25 +1,20 @@
-# Simple test room for crouch bug reproduction
-# Just a flat platform in empty space
-
-# Player spawn point (X, Y)
-SPAWN 100 50
-
-# Simple flat platform
-# Format: X Y TileSize TileType
-# Row 1 - ground tiles
-0 100 16 SOLID
-16 100 16 SOLID
-32 100 16 SOLID
-48 100 16 SOLID
-64 100 16 SOLID
-80 100 16 SOLID
-96 100 16 SOLID
-112 100 16 SOLID
-128 100 16 SOLID
-144 100 16 SOLID
-160 100 16 SOLID
-176 100 16 SOLID
-192 100 16 SOLID
-208 100 16 SOLID
-224 100 16 SOLID
-240 100 16 SOLID
+#                                       
+#                                       
+                                        
+#                                       
+ P                                      
+                                        
+#                                       
+#                                       
+# R                                     
+           L #                          
+            L D                         
+            L D                         
+            L D                         
+            L D                         
+            L D                         
+            L D                         
+             L D                        
+             L D                        
+             L D                        
+             L D                        
